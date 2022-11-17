@@ -5,3 +5,5 @@ while len(a) < n:
     print(f)
     a.append(f)
 print(*a)
+
+bash: cd: too many arguments
